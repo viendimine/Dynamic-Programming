@@ -40,4 +40,4 @@ int main()
     cout<<fibonacci(n)<<endl;
     cout<<Fibonacci(n)<<endl;
     cout<<Fib(n);
-}`
+}
